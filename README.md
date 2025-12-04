@@ -30,8 +30,8 @@
   <h3>📊 数据概览 (Overview)</h3>
   
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LM5610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LM5610&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" />
   </p>
 </div>
 
