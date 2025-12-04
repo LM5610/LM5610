@@ -1,70 +1,105 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=xg&weight=600&size=40&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=你好，我是+LM5610;一名+Java+%26+Python+开发者;热衷于+Minecraft+插件开发;专注于+逆向工程+与+底层逻辑" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World!%22);LM5610.init(Java, Python, Reverse_Eng);Crafting+Code...+Building+Worlds..." alt="Typing SVG" />
 </div>
+
+<div align="center">
+  <h1>👋 你好，我是 LM5610</h1>
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👾 关于我 (About Me)</h3>
+      <p>
+        我是一名游走于<b>创造</b>与<b>解构</b>之间的开发者。
+        <br/><br/>
+        🏰 <b>构建者 (Builder):</b> <br/>
+        在 Minecraft 的世界里，我不满足于简单的堆砌。我使用 <b>Java</b> 和 <b>Spigot API</b> 编写插件，为虚拟世界注入灵魂，创造出独一无二的游戏规则与交互体验。
+        <br/><br/>
+        🕵️ <b>探索者 (Researcher):</b> <br/>
+        在代码的底层，我沉迷于 <b>逆向工程</b>。喜欢拆解复杂的逻辑，通过 Hook 与分析，透过二进制的迷雾，寻找程序运行的原始真理。
+        <br/><br/>
+        <i>"代码不仅是工具，它是逻辑的诗篇，也是控制世界的咒语。"</i>
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🚀 当前状态</h3>
+      <br/>
+      🌱 <b>正在钻研:</b> <br/>
+      &nbsp;&nbsp;&nbsp;• JVM 底层原理<br/>
+      &nbsp;&nbsp;&nbsp;• 高级 Hook 技术<br/>
+      <br/>
+      🔭 <b>正在开发:</b> <br/>
+      &nbsp;&nbsp;&nbsp;• 独家 MC 生存插件<br/>
+      &nbsp;&nbsp;&nbsp;• 自动化分析脚本<br/>
+      <br/>
+      ⚡ <b>常用装备:</b> <br/>
+      &nbsp;&nbsp;&nbsp;• IntelliJ IDEA<br/>
+      &nbsp;&nbsp;&nbsp;• PyCharm<br/>
+      &nbsp;&nbsp;&nbsp;• Kali Linux
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LM5610&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>👾 关于我</h3>
+  <h3>🛠️ 技术军火库 (Arsenal)</h3>
+  
   <p>
-    我是一名追求极致技术的开发者。除了编写 <b>Minecraft 插件</b> 构建虚拟世界外，<br/>
-    我也沉迷于通过 <b>逆向工程</b> 探索代码背后的运行机制。<br/>
-    我相信代码不仅是工具，更是一门艺术。
+    <img src="https://img.shields.io/badge/Language-Java-b07219?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/操作系统-Linux-black?style=flat-square&logo=linux" />
-    <img src="https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-    <img src="https://img.shields.io/badge/工具-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/主要语言-Java_%26_Python-important?style=flat-square" />
+    <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Tool-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tool-Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
   </p>
-</div>
 
-<br/>
-
-<div align="center">
-  <h3>🛠️ 技术军火库</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,c,cs,linux,git,idea,pycharm,vscode,gradle,maven,mysql,docker&perline=14&theme=dark" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📊 编码数据</h3>
-  
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=LM5610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LM5610&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=58A6FF" height="160" />
-  </p>
-  
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LM5610&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" />
+    <img src="https://img.shields.io/badge/Focus-Reverse_Engineering-critical?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Minecraft_Dev-2e8b57?style=for-the-badge&logo=minecraft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Algorithm-blueviolet?style=for-the-badge" />
   </p>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:你的邮箱@example.com">
-    <img src="https://img.shields.io/badge/联系我-Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <h3>📊 概览</h3>
+  <table width="80%">
+    <tr>
+      <td align="center"><b>💻 核心能力</b></td>
+      <td align="center"><b>🎯 专注方向</b></td>
+      <td align="center"><b>🌍 语言</b></td>
+    </tr>
+    <tr>
+      <td align="center">Java / Python</td>
+      <td align="center">Plugin / Reverse</td>
+      <td align="center">中文 / English</td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Coding-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Coffee-Fueling-6f4e37?style=flat-square" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/LM5610">
-    <img src="https://img.shields.io/badge/主页-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-LM5610-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:你的邮箱@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
